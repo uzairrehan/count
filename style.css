@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #212121;
+}
+.main {
+  width: 40%;
+  margin: auto;
+}
+.divs {
+  border-bottom: 10px solid #2da395;
+}
+.divs p {
+  color: #f0f3f2;
+  letter-spacing: 40px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+}
